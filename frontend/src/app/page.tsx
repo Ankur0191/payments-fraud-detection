@@ -1,20 +1,19 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { Container, Typography } from "@mui/material";
+import { Container, Typography, Button } from "@mui/material";
 
-export default function HomePage() {
-  const [message, setMessage] = useState("");
-
-  useEffect(() => {
-    fetch("http://127.0.0.1:8000/")
-      .then((res) => res.json())
-      .then((data) => setMessage(data.message));
-  }, []);
-
+export default function Home() {
   return (
-    <Container maxWidth="sm" sx={{ mt: 5 }}>
-      <Typography variant="h4">{message || "Loading..."}</Typography>
+    <Container maxWidth="md" sx={{ textAlign: "center", mt: 5 }}>
+      <Typography variant="h3" gutterBottom>
+        Fraud Detection System
+      </Typography>
+      <Typography variant="h6" color="textSecondary" paragraph>
+        An AI-powered system to detect and prevent fraudulent transactions.
+      </Typography>
+      <Button variant="contained" color="primary" size="large">
+        Get Started
+      </Button>
     </Container>
   );
 }
