@@ -68,3 +68,22 @@ POST	/detect_fraud	(Upcoming) Analyze transactions for fraud
 📌 Fraud Alerts: Shows flagged fraudulent transactions
 📌 Risk Analysis Graphs: Visual representation of fraud risk
 
+Screenshots
+![image](https://github.com/user-attachments/assets/37d8bcc9-4d27-407c-9ea6-96e2fb118c17)
+
+
+
+
+![Screenshot 2025-03-16 214729](https://github.com/user-attachments/assets/1feacc88-2f8f-471e-88de-508a7e3f4711)
+
+![Screenshot 2025-03-16 214719](https://github.com/user-attachments/assets/0ff87d75-c18b-4f40-ac9c-a3ac582e9b97)
+
+![Screenshot 2025-03-16 214705](https://github.com/user-attachments/assets/94ba8df4-bccf-47bb-9d91-1d2eda0dc2ff)
+
+
+
+
+
+
+
+
