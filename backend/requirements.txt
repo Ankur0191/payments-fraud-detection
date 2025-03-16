@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+numpy
+pandas
+torch
+torchvision
+transformers
+scikit-learn
+tensorflow
+opencv-python
+dlib
+pymongo
+python-dotenv
