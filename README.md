@@ -69,6 +69,12 @@ POST	/detect_fraud	(Upcoming) Analyze transactions for fraud
 📌 Risk Analysis Graphs: Visual representation of fraud risk
 
 Screenshots
+
+![image](https://github.com/user-attachments/assets/2eecfbb5-9e10-4397-aa69-eb3f26c8727e)
+
+![image](https://github.com/user-attachments/assets/354c6246-a905-409b-a05d-3b5eef275a62)
+
+
 ![image](https://github.com/user-attachments/assets/37d8bcc9-4d27-407c-9ea6-96e2fb118c17)
 
 
@@ -79,6 +85,10 @@ Screenshots
 ![Screenshot 2025-03-16 214719](https://github.com/user-attachments/assets/0ff87d75-c18b-4f40-ac9c-a3ac582e9b97)
 
 ![Screenshot 2025-03-16 214705](https://github.com/user-attachments/assets/94ba8df4-bccf-47bb-9d91-1d2eda0dc2ff)
+
+.env.local credentials as I was unable to host it its still under development thats why I am uploading 
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_aGlwLXRvbWNhdC03NS5jbGVyay5hY2NvdW50cy5kZXYk
+CLERK_SECRET_KEY=sk_test_nRpavNlPHVhoWi8wJGKAbglJBH9rfTK6VFnhVcUCfv
 
 
 
